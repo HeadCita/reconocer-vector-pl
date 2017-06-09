@@ -1,0 +1,19 @@
+{
+  "name": "reconocer-vector-pl",
+  "version": "1.0.0",
+  "description": "Sistema basado en conocimiento para reconocer el vector y enfermedad a traves de los sintomas ocacionados por una picadura.",
+  "main": "rvector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeadCita/reconocer-vector-pl.git"
+  },
+  "author": "HeadCita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HeadCita/reconocer-vector-pl/issues"
+  },
+  "homepage": "https://github.com/HeadCita/reconocer-vector-pl#readme"
+}
